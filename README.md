@@ -4,7 +4,7 @@
 
 #### [Here you can see some of my work](https://aigarspeda.github.io/my-app/)
 
-- 📫 How to reach me: aigarspeda@gmail.com
+📫 How to reach me: aigarspeda@gmail.com
 
 
 <!--
