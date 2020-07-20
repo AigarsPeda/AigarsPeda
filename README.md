@@ -3,7 +3,7 @@
 # My name is Aigars, I am front end developer and I’m looking for a job.
 
 #### Here you can see some of my works.
-#### https://aigarspeda.github.io/my-app/
+- https://aigarspeda.github.io/my-app/
 
 <!--
 **AigarsPeda/AigarsPeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
