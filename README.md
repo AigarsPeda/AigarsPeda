@@ -2,7 +2,8 @@
 
 # My name is Aigars, I am front end developer and I’m looking for a job.
 
-#### [Here you can see some of my work](https://aigarspeda.github.io/my-app/)
+#### 
+🖥 [Here you can see some of my work](https://aigarspeda.github.io/my-app/)
 
 📫 How to reach me: aigarspeda@gmail.com
 
