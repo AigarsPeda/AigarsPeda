@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# My name is Aigars, I am front end developer and I’m looking for a job.
+# My name is Aigars, I am FULL STACK developer and I’m looking for a job.
 
 #### 
 🖥 Here you can see some of my work: [my website](https://aigarspeda.github.io/my-app/)
